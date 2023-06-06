@@ -1,1 +1,1 @@
-PackageInstallerDemo.apk2.0
+上传CheckUpdateDemo.apk v2.0
